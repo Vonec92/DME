@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="httpclient-4.3-beta1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/httpclient-4.3-beta1.jar!/" />
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/org.json.jar!/" />
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/json-simple-2.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/org.apache.commons.io.jar!/" />
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/java-parser-api-1.1.5.final.jar!/" />
+      <root url="jar://$USER_HOME$/Be Bold Digital Dropbox/Vone Cloots/Be Bold/Work/Kluwer/httpcore-4.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
